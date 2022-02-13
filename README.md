@@ -23,7 +23,7 @@ English | [简体中文](README.zh-CN.md)
     <a href="https://github.com/seatonjiang/openwrt-ubnt/issues">Request Feature</a>
 </p>
 
-<p align="center">OpenWrt firmware for UBNT router daily builds</p>
+<p align="center">OpenWrt Firmware for UBNT Routers (Nightly Builds)</p>
 
 ## 💻 Firmware Preview
 

@@ -23,7 +23,7 @@
     <a href="https://github.com/seatonjiang/openwrt-ubnt/issues">功能需求</a>
 </p>
 
-<p align="center">UBNT 路由器的 OpenWrt 固件（每日更新）</p>
+<p align="center">UBNT 路由器的 OpenWrt 固件（夜间构建）</p>
 
 ## 💻 固件预览
 
