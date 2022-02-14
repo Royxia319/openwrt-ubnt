@@ -1,7 +1,7 @@
 [English](README.md) | 简体中文
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/openwrt-ubnt@main/.github/openwrt.png">
+    <img src=".github/openwrt.png">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ## 💻 固件预览
 
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/seatonjiang/openwrt-ubnt@main/.github/about-firmware.png">
+    <img src=".github/about-firmware.png">
 </p>
 
 ## ✨ 固件介绍
