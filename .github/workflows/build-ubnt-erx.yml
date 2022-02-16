@@ -83,5 +83,5 @@ jobs:
         if: (!cancelled())
         with:
           token: ${{ github.token }}
-          retain_days: 1
-          keep_minimum_runs: 2
+          retain_days: 0
+          keep_minimum_runs: 1
