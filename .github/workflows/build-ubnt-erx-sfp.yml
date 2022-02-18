@@ -88,7 +88,9 @@ jobs:
 
       - name: Delete releases and tags
         uses: dev-drprasad/delete-older-releases@v0.2.0
+        if: (!cancelled())
         with:
           keep_latest: 2
+          delete_tags: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
