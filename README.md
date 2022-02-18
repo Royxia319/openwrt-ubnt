@@ -39,8 +39,6 @@ English | [简体中文](README.zh-CN.md)
 - Optimized for small memory devices and streamlined with many useless features (install as needed).
 - Includes a large number of official OpenWrt plugins and community plugins, the software source has been accelerated using domestic sources.
 
-There are many `features` not listed, you can upgrade to experience the firmware features.
-
 ## 🚀 Quick start
 
 Download the latest firmware from the [Releases](https://github.com/seatonjiang/openwrt-ubnt/releases) page, and then refer to the firmware burning method "ER-X Burning Firmware via TTL".

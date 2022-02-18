@@ -39,8 +39,6 @@
 - 针对小内存设备进行了优化，精简了许多没用的功能（根据需要自行安装）
 - 包含了丰富的 OpenWrt 原版插件及社区插件源
 
-还有很多 `特性` 没有被列举出来，可以自行升级体验一下固件功能。
-
 ## 🚀 使用说明
 
 首先在 [Releases](https://github.com/seatonjiang/openwrt-ubnt/releases) 页面下载最新固件，然后参考固件的烧录方法《ER-X 通过 TTL 烧录固件》。
